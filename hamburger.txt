@@ -3,9 +3,13 @@
 ## Ingredients
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 3 pounds ground beef
 =======
 - 5 pounds ground beef
+>>>>>>> Hamburger-tweaks
+=======
+- 3 pounds ground beef
 >>>>>>> Hamburger-tweaks
 - 1 egg, beaten
 - 3/4 cup dry bread crumbs
